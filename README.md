@@ -1,1 +1,1 @@
-# Bulls and cows game
+# Bulls and cows game on c++
